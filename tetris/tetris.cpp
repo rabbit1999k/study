@@ -1,3 +1,5 @@
+// https://seokjin2.tistory.com/35 Âü°í
+
 #include <iostream>
 #include <vector>
 #include <ctime>
